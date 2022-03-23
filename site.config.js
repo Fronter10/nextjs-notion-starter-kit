@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '交互设计师简历',
   domain: 'https://fronter10.notion.site/fronter10/a8a32e8dee074f469806c1e4154b902d',
-  author: '陈腾骥',
+  author: 'Fronter Chen',
 
   // open graph metadata (optional)
   description: 'Example site description',
