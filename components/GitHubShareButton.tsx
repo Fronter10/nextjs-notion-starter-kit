@@ -5,8 +5,8 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='http://mp.weixin.qq.com/mp/homepage?__biz=MzU1MzkyMjI2Mg==&hid=4&sn=d83063fc9a50c3b1fe3629546d92cb2b&scene=18#wechat_redirect'
-      target='_blank'
+      href=''
+      target=''
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label='View source on GitHub'
