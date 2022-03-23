@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '36b0fe09e9e44ce792a103d57b480caf',
+  rootNotionPageId: 'a8a32e8dee074f469806c1e4154b902d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '交互设计师简历',
-  domain: 'https://fronter10.notion.site/REBECCA-36b0fe09e9e44ce792a103d57b480caf',
+  domain: 'https://fronter10.notion.site/fronter10/a8a32e8dee074f469806c1e4154b902d',
   author: '陈腾骥',
 
   // open graph metadata (optional)
